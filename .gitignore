@@ -1,0 +1,49 @@
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Java output
+*.class
+*.jar
+*.log
+bin/
+build/
+out/
+
+# RetroMCP and generated Minecraft content
+minecraft/
+minecraft_server/
+minecraft_merged/
+jars/
+libraries/
+logs/
+run/
+temp/
+reobf/
+reobf_client/
+reobf_server/
+
+# Local game data
+saves/
+screenshots/
+stats/
+texturepacks/
+resourcepacks/
+options.txt
+lastlogin
+*.lck
+
+# Local archives and release staging
+*.zip
+*.rar
+*.7z
+release-staging/
