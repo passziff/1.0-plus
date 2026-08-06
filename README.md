@@ -1,14 +1,18 @@
 # Minecraft: The Other Update
 
-Minecraft: The Other Update is an unofficial alternative continuation of Minecraft Java Edition, built from Release 1.0.0.
+An unofficial alternative continuation of Minecraft Java Edition, built from Release 1.0.0.
 
 ## Status
 
 Early development. No public build is available yet.
 
-## First feature
+The first update, **Proper Progression Update**, is in development. Current progress is tracked in [DEVLOG.md](DEVLOG.md).
 
-The first feature in development is a Minecraft 1.0 adaptation of [Beds, but Endgame](https://github.com/passziff/beds-but-endgame), centered around the Bedside Table and a new Glowstone Lantern.
+## Development
+
+Built with RetroMCP-Java and Java 8.
+
+This repository contains only original project files, assets and patches. It does not include Minecraft source code, Minecraft assets or a Minecraft JAR.
 
 ## License
 
